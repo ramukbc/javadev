@@ -5,7 +5,7 @@ echo
 echo plase enter the b value 
 read b 
 echo
-
+echo new line 
 if [$a>$b];
 then
   echo the value of a is more 
