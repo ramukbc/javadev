@@ -8,3 +8,5 @@ cp $1 $2
 echo all the file are move to the $2 directry 
 
 echo new line enter in the copy file
+
+echo 2nd line enter now
